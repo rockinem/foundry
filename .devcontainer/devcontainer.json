@@ -36,7 +36,7 @@
     }
   },
 
-  "remoteUser": "foundry",
+  "0x5eb1F92682B82688E2150201167e3d52BC60c331": "foundry",
 
   "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
 
